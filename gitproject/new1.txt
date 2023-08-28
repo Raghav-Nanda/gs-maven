@@ -1,0 +1,3 @@
+This is for git commands for better understanding
+Passing the commands using git
+This file is created by Raghavendra
