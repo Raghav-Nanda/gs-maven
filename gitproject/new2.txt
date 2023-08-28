@@ -1,3 +1,0 @@
-Hello world code is modified 
- This is for git command to delete a file
-
