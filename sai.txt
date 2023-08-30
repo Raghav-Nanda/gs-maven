@@ -1,2 +1,7 @@
-hi good mrng 
-this is file is for git commonds
+Hello world 
+
+this is file is for git commond
+
+this file is created by sai 
+
+this file modified
